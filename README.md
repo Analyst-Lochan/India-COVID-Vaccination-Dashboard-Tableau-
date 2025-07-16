@@ -2,8 +2,6 @@
 
 This Tableau dashboard analyzes COVID-19 vaccination data across Indian states, covering gender-based distribution, vaccine type comparison (Covaxin vs. Covishield), registration trends, and vaccination site availability in 2020.
 
-![Dashboard Screenshot](dashboard_preview.png)
-
 ## 📊 Dashboard Features
 
 - Total Registered Individuals by State
